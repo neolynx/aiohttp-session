@@ -1,5 +1,5 @@
-aiohttp-session (0.8.0) stable; urgency=medium
+aiohttp-session (0.8.0-1) stable; urgency=medium
 
   * debianized
 
- -- André Roth <neolynx@gmail.com>  Thu, 08 Feb 2018 19:18:00 +0100
+ -- André Roth <neolynx@gmail.com>  Sun, 14 Jul 2019 15:44:32 +0200
